@@ -10,6 +10,7 @@
 <p> Hi, I'm Jes Covarrubias </p>
     <p> May 29th, 2023 </p>
     <p> Professional Web Developer </p>
+    <p> June 5th, 2023 </p>
 
 </body>
 </html>
